@@ -1,5 +1,8 @@
 # Calculator
 Basic Windows GUI Calculator
 Started on April 5, 2021
-Note Note Note note
+Author: Jonathan L. Hernandez
+Re learning programming after 
+a 30 career move into Production
+Engineering.
 
